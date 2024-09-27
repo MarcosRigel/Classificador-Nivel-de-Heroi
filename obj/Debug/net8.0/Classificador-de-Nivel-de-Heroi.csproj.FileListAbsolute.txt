@@ -12,3 +12,4 @@ C:\Users\Marcos Rigel\OneDrive\Área de Trabalho\Classificador-de-Nivel-de-Heroi
 C:\Users\Marcos Rigel\OneDrive\Área de Trabalho\Classificador-de-Nivel-de-Heroi\obj\Debug\net8.0\Classificador-de-Nivel-de-Heroi.pdb
 C:\Users\Marcos Rigel\OneDrive\Área de Trabalho\Classificador-de-Nivel-de-Heroi\obj\Debug\net8.0\Classificador-de-Nivel-de-Heroi.genruntimeconfig.cache
 C:\Users\Marcos Rigel\OneDrive\Área de Trabalho\Classificador-de-Nivel-de-Heroi\obj\Debug\net8.0\ref\Classificador-de-Nivel-de-Heroi.dll
+C:\Users\Marcos Rigel\OneDrive\Área de Trabalho\Classificador-de-Nivel-de-Heroi\obj\Debug\net8.0\Classificador-de-Nivel-de-Heroi.sourcelink.json
